@@ -126,16 +126,10 @@
   #experience-year{
     font-size: 4rem;
     font-weight: 700;
-  }
-  
-  
-  /* .featured-architect img{
+  }  
+  .featured-architect img{
     width: 100%;
-  } */
-
-
-
-
+  }
   /* some facts related style */
   .fact-container{
     display: grid;
@@ -199,8 +193,8 @@
       margin-left: 60px;
     }
     #experience-badge{
-      margin-top: 20px;
-      margin-left: 20px;
+      margin-top: -100px;
+      margin-left: 50px;
     }
   }
   /* medium size device */
